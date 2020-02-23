@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/dw-canal/dw-canal.iml" filepath="$PROJECT_DIR$/dw-canal/dw-canal.iml" />
       <module fileurl="file://$PROJECT_DIR$/dw-common/dw-common.iml" filepath="$PROJECT_DIR$/dw-common/dw-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/dw-logger/dw-logger.iml" filepath="$PROJECT_DIR$/dw-logger/dw-logger.iml" />
       <module fileurl="file://$PROJECT_DIR$/dw-mocker/dw-mocker.iml" filepath="$PROJECT_DIR$/dw-mocker/dw-mocker.iml" />

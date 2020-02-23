@@ -21,6 +21,7 @@
         <module>dw-logger</module>
         <module>dw-realtime</module>
         <module>dw-chart</module>
+        <module>dw-canal</module>
     </modules>
 
 
