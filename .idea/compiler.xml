@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="dw-canal" />
         <module name="dw-common" />
+        <module name="dw-es" />
         <module name="dw-logger" />
         <module name="dw-mocker" />
         <module name="dw-publisher" />
@@ -18,6 +19,7 @@
       <module name="dw-canal" target="1.8" />
       <module name="dw-chart" target="1.8" />
       <module name="dw-common" target="1.8" />
+      <module name="dw-es" target="1.8" />
       <module name="dw-logger" target="1.8" />
       <module name="dw-mocker" target="1.8" />
       <module name="dw-publisher" target="1.8" />

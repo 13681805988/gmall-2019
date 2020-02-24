@@ -22,6 +22,7 @@
         <module>dw-realtime</module>
         <module>dw-chart</module>
         <module>dw-canal</module>
+        <module>dw-es</module>
     </modules>
 
 
